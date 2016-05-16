@@ -1,0 +1,24 @@
+# Server version 0.08 running on vpn156053.wireless.mcgill.ca:8123
+# Game ID: 41
+# Board class: omweso.CCBoard
+# Timeout: 2000
+# First Move Timeout: 60000
+# Date: Mon Mar 30 14:06:28 EDT 2015
+# Player 1: Player-0, 'random', running on localhost
+# Player 2: Player-1, 's260560802', running on localhost
+START Player-0 random
+START Player-1 s260560802
+INIT 0 true 0,0,1,2,1,2,2,0,1,4,7,2,3,2,2,3
+INIT 1 true 3,2,2,7,2,5,8,3,0,0,0,0,0,0,0,0
+PIT 0 5
+PIT 1 6
+PIT 0 6
+PIT 1 0
+PIT 0 13
+PIT 1 10
+PIT 0 0
+PIT 1 14
+PIT 0 11
+PIT 1 6
+GAMEOVER WINNER 1
+# Game ended: Mon Mar 30 14:06:28 EDT 2015

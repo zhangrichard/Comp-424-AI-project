@@ -1,0 +1,4 @@
+The data file is in the logs folder
+This is where I would put any data my player needed, if I had some.
+
+You can place files in any structure you want in here, but no source files or executables.

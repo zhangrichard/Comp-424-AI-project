@@ -1,0 +1,25 @@
+# Server version 0.08 running on 192.168.2.11:8123
+# Game ID: 9
+# Board class: omweso.CCBoard
+# Timeout: 2000
+# First Move Timeout: 60000
+# Date: Sun Mar 29 14:57:54 EDT 2015
+# Player 1: Player-0, 's260560802', running on localhost
+# Player 2: Player-1, 'random', running on localhost
+START Player-0 s260560802
+START Player-1 random
+INIT 0 true 3,1,2,3,1,4,4,2,2,2,4,1,1,1,0,1
+INIT 1 true 6,4,0,3,2,6,6,5,0,0,0,0,0,0,0,0
+PIT 0 0
+PIT 1 6
+PIT 0 11
+PIT 1 0
+PIT 0 5
+PIT 1 7
+PIT 0 13
+PIT 1 1
+PIT 0 15
+PIT 1 8
+PIT 0 14
+GAMEOVER WINNER 0
+# Game ended: Sun Mar 29 14:57:54 EDT 2015
